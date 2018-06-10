@@ -1,0 +1,82 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-991f0fc63b84068cfa85.js",
+      "component---src-pages-index-js-991f0fc63b84068cfa85.js.map"
+    ],
+    "path---": [
+      "path----9fc1a7e246dbe557fd87.js",
+      "path----9fc1a7e246dbe557fd87.js.map"
+    ],
+    "component---src-pages-journal-python-index-js": [
+      "component---src-pages-journal-python-index-js-20d02e4a405cff5d4c40.js",
+      "component---src-pages-journal-python-index-js-20d02e4a405cff5d4c40.js.map"
+    ],
+    "path---journal-python-creating-modules": [
+      "path---journal-python-creating-modules-196215899be1bb9b30c0.js",
+      "path---journal-python-creating-modules-196215899be1bb9b30c0.js.map"
+    ],
+    "path---journal-linux-administration": [
+      "path---journal-linux-administration-661e88c9af1041448b56.js",
+      "path---journal-linux-administration-661e88c9af1041448b56.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-abfbcc17aea92c37fe82.js",
+      "component---src-templates-blog-post-js-abfbcc17aea92c37fe82.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-88524336152cd17394f6.js",
+      "component---src-layouts-index-js-88524336152cd17394f6.js.map"
+    ],
+    "component---src-pages-journal-index-js": [
+      "component---src-pages-journal-index-js-80f830370fc1dd546e95.js",
+      "component---src-pages-journal-index-js-80f830370fc1dd546e95.js.map"
+    ],
+    "path---index": [
+      "path---index-b993e98d56dc0d818041.js",
+      "path---index-b993e98d56dc0d818041.js.map"
+    ],
+    "component---src-pages-journal-linux-administration-index-js": [
+      "component---src-pages-journal-linux-administration-index-js-cc014bb0d01f7aed6617.js",
+      "component---src-pages-journal-linux-administration-index-js-cc014bb0d01f7aed6617.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-b94fca051e1bbd0c2974.js",
+      "component---src-pages-404-js-b94fca051e1bbd0c2974.js.map"
+    ],
+    "commons": [
+      "commons-e35206bb07e2a96889f9.js",
+      "commons-e35206bb07e2a96889f9.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-20fd7baefeddcc42861e.js",
+      "path---404-html-20fd7baefeddcc42861e.js.map"
+    ],
+    "path---journal-linux-administration-systemd-timers-for-scheduling": [
+      "path---journal-linux-administration-systemd-timers-for-scheduling-c586db18989b5096036b.js",
+      "path---journal-linux-administration-systemd-timers-for-scheduling-c586db18989b5096036b.js.map"
+    ],
+    "path---journal-python": [
+      "path---journal-python-9a0107d9c01cb8a7feed.js",
+      "path---journal-python-9a0107d9c01cb8a7feed.js.map"
+    ],
+    "app": [
+      "app-bfa2e32e42fcf34e5a42.js",
+      "build-js-styles.css",
+      "app-bfa2e32e42fcf34e5a42.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---journal": [
+      "path---journal-2164ae889f1b8b016084.js",
+      "path---journal-2164ae889f1b8b016084.js.map"
+    ],
+    "path---journal-python-namespaces-in-python-3": [
+      "path---journal-python-namespaces-in-python-3-fdfd193ad82849d53b51.js",
+      "path---journal-python-namespaces-in-python-3-fdfd193ad82849d53b51.js.map"
+    ],
+    "path---404": [
+      "path---404-20fd7baefeddcc42861e.js",
+      "path---404-20fd7baefeddcc42861e.js.map"
+    ]
+  }
+}
