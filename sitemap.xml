@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://ulisesavila.com/journal/rethinkdb/importing-from-external-sources/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ulisesavila.com/journal/rethinkdb/creating-and applying-backups/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ulisesavila.com/journal/rethinkdb/managing-users/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ulisesavila.com/journal/rethinkdb/installing-in-linux/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ulisesavila.com/journal/python/namespaces-in-python-3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ulisesavila.com/journal/python/creating-modules/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ulisesavila.com/journal/linux-administration/systemd-timers-for-scheduling/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -7,4 +11,5 @@
 <url> <loc>https://ulisesavila.com/journal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ulisesavila.com/journal/linux-administration/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ulisesavila.com/journal/python/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ulisesavila.com/journal/rethinkdb/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
